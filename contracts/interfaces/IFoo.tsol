@@ -1,0 +1,6 @@
+pragma ever-solidity 0.64.0;
+
+interface IFoo {
+    function getActive() external view responsible returns(bool);
+    function setActive(bool _active) external;
+}

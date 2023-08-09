@@ -1,0 +1,36 @@
+pragma ever-solidity 0.64.0;
+
+pragma AbiHeader time;
+pragma AbiHeader expire;
+pragma AbiHeader pubkey;
+
+import "./interfaces/IFoo.tsol";
+import "./libraries/Errors.tsol";
+
+import "@broxus/ever-contracts/contracts/libraries/MsgFlag.tsol";
+
+contract Foo is IFoo {
+    address static deployer;
+    uint64 static nowTx;
+
+    bool active;
+
+    constructor() public {
+        tvm.accept();
+    }
+
+    modifier onlyDeployer() {
+        require(msg.sender == deployer, Errors.SENDER_IS_NOT_DEPLOYER);
+        _;
+    }
+
+    function getActive() external view override responsible returns(bool) {
+        return { value: 0, bounce: false, flag: MsgFlag.REMAINING_GAS} active;
+    }
+
+    function setActive(bool _active) external override onlyDeployer {
+        tvm.rawReserve(math.max(address(this).balance - msg.value, 0.3 ever), 0);
+        active = _active;
+    }
+
+}

@@ -1,0 +1,30 @@
+pragma ever-solidity 0.64.0;
+
+import "../structures/IGasValueStructure.tsol";
+
+library Gas {
+
+    // Bar
+    uint128 constant DEPLOY_COMPENSATION = 0.1 ever;
+
+    uint128 constant DEPLOY_FOO_EXTRA_GAS = 100000;
+    uint128 constant DEPLOY_FOO_VALUE = 1 ever;
+
+    function getDeployFooGas() public returns(IGasValueStructure.GasValue) {
+        return IGasValueStructure.GasValue(
+            DEPLOY_FOO_VALUE + DEPLOY_COMPENSATION,
+            DEPLOY_FOO_EXTRA_GAS
+        );
+    }
+
+    // Foo
+
+    uint128 constant SET_ACTIVE_STATE_FOO = 0.5 ever;
+
+    function getSetActiveFoo() public returns(IGasValueStructure.GasValue) {
+        return IGasValueStructure.GasValue(
+            SET_ACTIVE_STATE_FOO,
+            0
+        );
+    }
+}

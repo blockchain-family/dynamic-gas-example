@@ -1,0 +1,1272 @@
+{
+  "map": {
+    "04bd8a298a4865b16a7d17ed4cea8a233773c8612fd6f975213fe05e32c607b2": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 4
+      },
+      "8": {
+        "filename": "Foo.code",
+        "line": 5
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 6
+      },
+      "32": {
+        "filename": "Foo.code",
+        "line": 7
+      },
+      "48": {
+        "filename": "Foo.code",
+        "line": 10
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 11
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 12
+      },
+      "88": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 19
+      },
+      "104": {
+        "filename": "Foo.code",
+        "line": 16
+      },
+      "120": {
+        "filename": "Foo.code",
+        "line": 19
+      }
+    },
+    "2347e0124f17dd84410f408bb82d02a47158b60ef57d69cc2f14c5edca025a5a": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 22
+      },
+      "8": {
+        "filename": "Foo.code",
+        "line": 23
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 24
+      },
+      "48": {
+        "filename": "Foo.code",
+        "line": 25
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 26
+      },
+      "72": {
+        "filename": "Foo.code",
+        "line": 27
+      },
+      "88": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 27
+      },
+      "104": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 27
+      },
+      "120": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 27
+      },
+      "128": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 27
+      },
+      "144": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 27
+      },
+      "160": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 27
+      },
+      "168": {
+        "filename": "Foo.code",
+        "line": 38
+      },
+      "184": {
+        "filename": "Foo.code",
+        "line": 41
+      },
+      "192": {
+        "filename": "Foo.code",
+        "line": 42
+      },
+      "208": {
+        "filename": "Foo.code",
+        "line": 43
+      },
+      "216": {
+        "filename": "Foo.code",
+        "line": 44
+      },
+      "224": {
+        "filename": "Foo.code",
+        "line": 45
+      },
+      "240": {
+        "filename": "Foo.code",
+        "line": 46
+      },
+      "256": {
+        "filename": "Foo.code",
+        "line": 47
+      },
+      "264": {
+        "filename": "Foo.code",
+        "line": 48
+      },
+      "272": {
+        "filename": "Foo.code",
+        "line": 49
+      },
+      "280": {
+        "filename": "Foo.code",
+        "line": 50
+      },
+      "304": {
+        "filename": "Foo.code",
+        "line": 51
+      },
+      "312": {
+        "filename": "Foo.code",
+        "line": 52
+      },
+      "360": {
+        "filename": "Foo.code",
+        "line": 53
+      },
+      "384": {
+        "filename": "Foo.code",
+        "line": 54
+      },
+      "400": {
+        "filename": "Foo.code",
+        "line": 55
+      },
+      "408": {
+        "filename": "Foo.code",
+        "line": 56
+      },
+      "416": {
+        "filename": "Foo.code",
+        "line": 58
+      },
+      "432": {
+        "filename": "Foo.code",
+        "line": 59
+      },
+      "448": {
+        "filename": "Foo.code",
+        "line": 60
+      },
+      "456": {
+        "filename": "Foo.code",
+        "line": 61
+      },
+      "472": {
+        "filename": "Foo.code",
+        "line": 62
+      },
+      "480": {
+        "filename": "Foo.code",
+        "line": 63
+      },
+      "496": {
+        "filename": "Foo.code",
+        "line": 64
+      },
+      "512": {
+        "filename": "Foo.code",
+        "line": 65
+      },
+      "528": {
+        "filename": "Foo.code",
+        "line": 66
+      },
+      "544": {
+        "filename": "Foo.code",
+        "line": 67
+      },
+      "552": {
+        "filename": "Foo.code",
+        "line": 68
+      },
+      "576": {
+        "filename": "Foo.code",
+        "line": 69
+      },
+      "592": {
+        "filename": "Foo.code",
+        "line": 70
+      },
+      "616": {
+        "filename": "Foo.code",
+        "line": 71
+      },
+      "624": {
+        "filename": "Foo.code",
+        "line": 72
+      },
+      "632": {
+        "filename": "Foo.code",
+        "line": 73
+      },
+      "648": {
+        "filename": "Foo.code",
+        "line": 74
+      },
+      "664": {
+        "filename": "Foo.code",
+        "line": 75
+      },
+      "680": {
+        "filename": "Foo.code",
+        "line": 76
+      },
+      "696": {
+        "filename": "Foo.code",
+        "line": 77
+      },
+      "712": {
+        "filename": "Foo.code",
+        "line": 78
+      },
+      "728": {
+        "filename": "Foo.code",
+        "line": 79
+      },
+      "752": {
+        "filename": "Foo.code",
+        "line": 80
+      },
+      "768": {
+        "filename": "Foo.code",
+        "line": 81
+      },
+      "776": {
+        "filename": "Foo.code",
+        "line": 82
+      },
+      "792": {
+        "filename": "Foo.code",
+        "line": 83
+      },
+      "808": {
+        "filename": "Foo.code",
+        "line": 85
+      },
+      "816": {
+        "filename": "Foo.code",
+        "line": 86
+      },
+      "832": {
+        "filename": "Foo.code",
+        "line": 87
+      },
+      "848": {
+        "filename": "Foo.code",
+        "line": 90
+      }
+    },
+    "3662be70b7596914176ef5bf98dbc6e25482b1b018733d8f0fd14990b123703b": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 149
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 150
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 151
+      },
+      "40": {
+        "filename": "Foo.code",
+        "line": 152
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 153
+      },
+      "72": {
+        "filename": "Foo.code",
+        "line": 154
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 155
+      },
+      "96": {
+        "filename": "Foo.code",
+        "line": 156
+      },
+      "112": {
+        "filename": "Foo.code",
+        "line": 157
+      },
+      "128": {
+        "filename": "Foo.code",
+        "line": 158
+      },
+      "136": {
+        "filename": "Foo.code",
+        "line": 159
+      },
+      "152": {
+        "filename": "Foo.code",
+        "line": 160
+      },
+      "168": {
+        "filename": "Foo.code",
+        "line": 161
+      },
+      "184": {
+        "filename": "Foo.code",
+        "line": 162
+      },
+      "200": {
+        "filename": "Foo.code",
+        "line": 163
+      }
+    },
+    "3ba6f0cba2d30eca4a13c1c07788f69d79ddd4657d69f284444f953c70d3ea3f": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 294
+      }
+    },
+    "673f27343058f1d37f1c5e6b9911127bd187ee34f84bfa9b30db5f4210096b0e": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 243
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 244
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 245
+      },
+      "40": {
+        "filename": "Foo.code",
+        "line": 246
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 247
+      },
+      "72": {
+        "filename": "Foo.code",
+        "line": 248
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 249
+      },
+      "88": {
+        "filename": "Foo.code",
+        "line": 250
+      },
+      "104": {
+        "filename": "Foo.code",
+        "line": 251
+      },
+      "120": {
+        "filename": "Foo.code",
+        "line": 252
+      },
+      "128": {
+        "filename": "Foo.code",
+        "line": 253
+      },
+      "144": {
+        "filename": "Foo.code",
+        "line": 254
+      },
+      "168": {
+        "filename": "Foo.code",
+        "line": 255
+      },
+      "184": {
+        "filename": "Foo.code",
+        "line": 256
+      },
+      "192": {
+        "filename": "Foo.code",
+        "line": 257
+      },
+      "208": {
+        "filename": "Foo.code",
+        "line": 258
+      },
+      "248": {
+        "filename": "Foo.code",
+        "line": 259
+      },
+      "264": {
+        "filename": "Foo.code",
+        "line": 260
+      },
+      "272": {
+        "filename": "Foo.code",
+        "line": 261
+      },
+      "288": {
+        "filename": "Foo.code",
+        "line": 262
+      },
+      "296": {
+        "filename": "Foo.code",
+        "line": 263
+      },
+      "312": {
+        "filename": "Foo.code",
+        "line": 264
+      },
+      "328": {
+        "filename": "Foo.code",
+        "line": 265
+      },
+      "336": {
+        "filename": "Foo.code",
+        "line": 266
+      },
+      "344": {
+        "filename": "Foo.code",
+        "line": 267
+      },
+      "360": {
+        "filename": "Foo.code",
+        "line": 268
+      },
+      "376": {
+        "filename": "Foo.code",
+        "line": 272
+      },
+      "384": {
+        "filename": "Foo.code",
+        "line": 273
+      },
+      "408": {
+        "filename": "Foo.code",
+        "line": 274
+      },
+      "424": {
+        "filename": "Foo.code",
+        "line": 275
+      },
+      "432": {
+        "filename": "Foo.code",
+        "line": 276
+      },
+      "448": {
+        "filename": "Foo.code",
+        "line": 280
+      },
+      "456": {
+        "filename": "Foo.code",
+        "line": 281
+      },
+      "472": {
+        "filename": "Foo.code",
+        "line": 284
+      }
+    },
+    "6bb808a228c856534d66d2c07c79235b61f613e155a5888c00f3b0c7f55df8af": {
+      "0": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "16": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "24": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "40": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "48": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "64": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "80": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "96": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      },
+      "112": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 28
+      }
+    },
+    "73a98f642ec9c9b959e9664068fce6e6882a5a1d3f87ca0176eefe6cea5696d5": {
+      "0": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 23
+      },
+      "16": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 23
+      },
+      "32": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 23
+      },
+      "48": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 23
+      },
+      "72": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "88": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "104": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "112": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "128": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "136": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "144": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "160": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "208": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "224": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "232": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 32
+      },
+      "248": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 33
+      }
+    },
+    "754aef7c5d111f3d95c8c6fd5a251eaf33799a2e465569e7cc603d9d7717856c": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 288
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 289
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 290
+      },
+      "40": {
+        "filename": "Foo.code",
+        "line": 291
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 292
+      },
+      "72": {
+        "filename": "Foo.code",
+        "line": 293
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 296
+      },
+      "96": {
+        "filename": "Foo.code",
+        "line": 297
+      },
+      "104": {
+        "filename": "Foo.code",
+        "line": 298
+      },
+      "120": {
+        "filename": "Foo.code",
+        "line": 301
+      },
+      "136": {
+        "filename": "Foo.code",
+        "line": 302
+      },
+      "144": {
+        "filename": "Foo.code",
+        "line": 303
+      },
+      "160": {
+        "filename": "Foo.code",
+        "line": 304
+      },
+      "176": {
+        "filename": "Foo.code",
+        "line": 305
+      },
+      "192": {
+        "filename": "Foo.code",
+        "line": 306
+      },
+      "200": {
+        "filename": "Foo.code",
+        "line": 307
+      },
+      "216": {
+        "filename": "Foo.code",
+        "line": 308
+      },
+      "224": {
+        "filename": "Foo.code",
+        "line": 309
+      },
+      "232": {
+        "filename": "Foo.code",
+        "line": 310
+      },
+      "240": {
+        "filename": "Foo.code",
+        "line": 311
+      },
+      "248": {
+        "filename": "Foo.code",
+        "line": 312
+      },
+      "264": {
+        "filename": "Foo.code",
+        "line": 313
+      },
+      "272": {
+        "filename": "Foo.code",
+        "line": 314
+      },
+      "288": {
+        "filename": "Foo.code",
+        "line": 315
+      },
+      "296": {
+        "filename": "Foo.code",
+        "line": 316
+      },
+      "304": {
+        "filename": "Foo.code",
+        "line": 317
+      },
+      "320": {
+        "filename": "Foo.code",
+        "line": 318
+      },
+      "328": {
+        "filename": "Foo.code",
+        "line": 319
+      },
+      "336": {
+        "filename": "Foo.code",
+        "line": 321
+      },
+      "344": {
+        "filename": "Foo.code",
+        "line": 322
+      },
+      "352": {
+        "filename": "Foo.code",
+        "line": 323
+      },
+      "368": {
+        "filename": "Foo.code",
+        "line": 325
+      },
+      "376": {
+        "filename": "Foo.code",
+        "line": 326
+      },
+      "392": {
+        "filename": "Foo.code",
+        "line": 327
+      },
+      "408": {
+        "filename": "Foo.code",
+        "line": 329
+      },
+      "416": {
+        "filename": "Foo.code",
+        "line": 330
+      },
+      "432": {
+        "filename": "Foo.code",
+        "line": 331
+      },
+      "440": {
+        "filename": "Foo.code",
+        "line": 332
+      },
+      "456": {
+        "filename": "Foo.code",
+        "line": 334
+      },
+      "464": {
+        "filename": "Foo.code",
+        "line": 335
+      },
+      "480": {
+        "filename": "Foo.code",
+        "line": 336
+      },
+      "488": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "504": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "512": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "520": {
+        "filename": "stdlib.sol",
+        "line": 61
+      },
+      "536": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "544": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "560": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "584": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "592": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "632": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "640": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "648": {
+        "filename": "stdlib.sol",
+        "line": 62
+      },
+      "664": {
+        "filename": "stdlib.sol",
+        "line": 63
+      },
+      "680": {
+        "filename": "Foo.code",
+        "line": 338
+      },
+      "696": {
+        "filename": "Foo.code",
+        "line": 339
+      },
+      "704": {
+        "filename": "Foo.code",
+        "line": 340
+      },
+      "720": {
+        "filename": "Foo.code",
+        "line": 341
+      },
+      "728": {
+        "filename": "Foo.code",
+        "line": 342
+      },
+      "744": {
+        "filename": "Foo.code",
+        "line": 343
+      },
+      "760": {
+        "filename": "Foo.code",
+        "line": 344
+      },
+      "768": {
+        "filename": "Foo.code",
+        "line": 345
+      },
+      "784": {
+        "filename": "Foo.code",
+        "line": 348
+      }
+    },
+    "8d548089b4e2a31198f3e4db3d8c1fd57171941e33843208c53519509ee54e31": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 171
+      },
+      "8": {
+        "filename": "Foo.code",
+        "line": 172
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 173
+      },
+      "32": {
+        "filename": "Foo.code",
+        "line": 174
+      },
+      "48": {
+        "filename": "Foo.code",
+        "line": 175
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 176
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 177
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 178
+      },
+      "96": {
+        "filename": "Foo.code",
+        "line": 179
+      },
+      "112": {
+        "filename": "Foo.code",
+        "line": 184
+      },
+      "120": {
+        "filename": "Foo.code",
+        "line": 185
+      },
+      "128": {
+        "filename": "Foo.code",
+        "line": 186
+      },
+      "136": {
+        "filename": "Foo.code",
+        "line": 187
+      },
+      "152": {
+        "filename": "Foo.code",
+        "line": 188
+      },
+      "168": {
+        "filename": "Foo.code",
+        "line": 189
+      },
+      "184": {
+        "filename": "Foo.code",
+        "line": 190
+      },
+      "192": {
+        "filename": "Foo.code",
+        "line": 191
+      },
+      "216": {
+        "filename": "Foo.code",
+        "line": 193
+      },
+      "224": {
+        "filename": "Foo.code",
+        "line": 194
+      },
+      "232": {
+        "filename": "Foo.code",
+        "line": 195
+      },
+      "248": {
+        "filename": "Foo.code",
+        "line": 196
+      },
+      "264": {
+        "filename": "Foo.code",
+        "line": 197
+      },
+      "280": {
+        "filename": "Foo.code",
+        "line": 198
+      },
+      "296": {
+        "filename": "Foo.code",
+        "line": 199
+      },
+      "312": {
+        "filename": "Foo.code",
+        "line": 200
+      },
+      "328": {
+        "filename": "Foo.code",
+        "line": 201
+      },
+      "352": {
+        "filename": "Foo.code",
+        "line": 202
+      },
+      "368": {
+        "filename": "Foo.code",
+        "line": 203
+      },
+      "376": {
+        "filename": "Foo.code",
+        "line": 204
+      }
+    },
+    "a51bd82ee91536f1f7f39ededa83792c74106864f257a7e4d571f2d6dc46fb5e": {
+      "0": {
+        "filename": "<entry-selector>",
+        "line": 1
+      },
+      "8": {
+        "filename": "<entry-selector>",
+        "line": 2
+      },
+      "24": {
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
+      },
+      "48": {
+        "filename": "<entry-selector>",
+        "line": 5
+      },
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
+      },
+      "72": {
+        "filename": "<entry-selector>",
+        "line": 7
+      },
+      "88": {
+        "filename": "<entry-selector>",
+        "line": 8
+      },
+      "96": {
+        "filename": "<entry-selector>",
+        "line": 9
+      },
+      "112": {
+        "filename": "<entry-selector>",
+        "line": 10
+      },
+      "128": {
+        "filename": "<entry-selector>",
+        "line": 11
+      }
+    },
+    "c4485a94e55e64c06c5e331324efe2f6a234ed20c05dedc827d6ea2ab736f5f7": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 166
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 167
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 168
+      },
+      "40": {
+        "filename": "Foo.code",
+        "line": 169
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 170
+      },
+      "72": {
+        "filename": "Foo.code",
+        "line": 206
+      }
+    },
+    "d558e53bf690afc8a76b8887a99a49a52db1bd24bec5da84780ea0e7bc0aad3f": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 180
+      }
+    },
+    "dc7eaea83fc6ad282fe37537ba30168c94ac6da61945dc4393abeb0424b192ea": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 106
+      },
+      "8": {
+        "filename": "Foo.code",
+        "line": 107
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 108
+      },
+      "48": {
+        "filename": "Foo.code",
+        "line": 109
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 110
+      },
+      "72": {
+        "filename": "Foo.code",
+        "line": 111
+      },
+      "88": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 31
+      },
+      "104": {
+        "filename": "../contracts/Foo.tsol",
+        "line": 31
+      },
+      "112": {
+        "filename": "Foo.code",
+        "line": 118
+      },
+      "128": {
+        "filename": "Foo.code",
+        "line": 121
+      },
+      "144": {
+        "filename": "Foo.code",
+        "line": 124
+      }
+    },
+    "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 227
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 228
+      },
+      "24": {
+        "filename": "Foo.code",
+        "line": 229
+      },
+      "40": {
+        "filename": "Foo.code",
+        "line": 230
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 231
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 232
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 233
+      },
+      "88": {
+        "filename": "Foo.code",
+        "line": 234
+      },
+      "96": {
+        "filename": "Foo.code",
+        "line": 235
+      },
+      "112": {
+        "filename": "Foo.code",
+        "line": 236
+      },
+      "128": {
+        "filename": "Foo.code",
+        "line": 237
+      },
+      "136": {
+        "filename": "Foo.code",
+        "line": 238
+      },
+      "144": {
+        "filename": "Foo.code",
+        "line": 239
+      }
+    },
+    "f1b3131bcaba6c639e5cf7e7e0d5a078ffc6fd7554ce0a3b1497ed7e980ab3d4": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 211
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 212
+      },
+      "32": {
+        "filename": "Foo.code",
+        "line": 213
+      },
+      "48": {
+        "filename": "Foo.code",
+        "line": 214
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 215
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 216
+      },
+      "88": {
+        "filename": "Foo.code",
+        "line": 217
+      },
+      "104": {
+        "filename": "Foo.code",
+        "line": 218
+      },
+      "120": {
+        "filename": "Foo.code",
+        "line": 219
+      },
+      "136": {
+        "filename": "Foo.code",
+        "line": 220
+      },
+      "144": {
+        "filename": "Foo.code",
+        "line": 221
+      },
+      "160": {
+        "filename": "Foo.code",
+        "line": 222
+      },
+      "176": {
+        "filename": "Foo.code",
+        "line": 223
+      },
+      "184": {
+        "filename": "Foo.code",
+        "line": 224
+      }
+    },
+    "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 269
+      },
+      "16": {
+        "filename": "Foo.code",
+        "line": 270
+      }
+    },
+    "f3995dbfdb018071f721373cc8f541036a450e2cef4df4b3a77067ad273aeef3": {
+      "0": {
+        "filename": "Foo.code",
+        "line": 351
+      },
+      "8": {
+        "filename": "Foo.code",
+        "line": 352
+      },
+      "56": {
+        "filename": "Foo.code",
+        "line": 353
+      },
+      "64": {
+        "filename": "Foo.code",
+        "line": 354
+      },
+      "80": {
+        "filename": "Foo.code",
+        "line": 357
+      },
+      "88": {
+        "filename": "Foo.code",
+        "line": 358
+      },
+      "136": {
+        "filename": "Foo.code",
+        "line": 359
+      },
+      "144": {
+        "filename": "Foo.code",
+        "line": 360
+      },
+      "160": {
+        "filename": "Foo.code",
+        "line": 363
+      },
+      "168": {
+        "filename": "Foo.code",
+        "line": 364
+      },
+      "216": {
+        "filename": "Foo.code",
+        "line": 365
+      },
+      "224": {
+        "filename": "Foo.code",
+        "line": 366
+      }
+    }
+  }
+}

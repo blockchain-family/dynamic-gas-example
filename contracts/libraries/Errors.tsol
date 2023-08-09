@@ -1,0 +1,8 @@
+pragma ever-solidity 0.64.0;
+
+library Errors {
+    uint16 constant SENDER_IS_NOT_OWNER = 1000;
+    uint16 constant NOT_OWNER = 1001;
+    uint16 constant NOT_PENDING_OWNER = 1002;
+    uint16 constant SENDER_IS_NOT_DEPLOYER = 1003;
+}

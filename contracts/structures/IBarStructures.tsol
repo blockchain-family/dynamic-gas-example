@@ -1,0 +1,9 @@
+pragma ever-solidity 0.64.0;
+
+interface IBarStructures {
+    struct Details {
+        uint64 nonce;
+        address owner;
+        address fooContract;
+    }
+}

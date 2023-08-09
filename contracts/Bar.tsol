@@ -1,0 +1,84 @@
+pragma ever-solidity 0.64.0;
+
+pragma  AbiHeader time;
+pragma  AbiHeader expire;
+pragma  AbiHeader pubkey;
+
+import "./libraries/Errors.tsol";
+import "./libraries/Gas.tsol";
+import "./interfaces/IBar.tsol";
+import "./structures/IGasValueStructure.tsol";
+import "@broxus/ever-contracts/contracts/libraries/MsgFlag.tsol";
+
+import "./Foo.tsol";
+import "./interfaces/IFoo.tsol";
+
+contract Bar is IBar {
+    uint64 static _nonce;
+    address owner;
+
+    TvmCell fooContractCode;
+    address fooContract;
+
+    constructor(address _owner, TvmCell _fooContractCode) public {
+        tvm.accept();
+        owner = _owner;
+        fooContractCode = _fooContractCode;
+    }
+
+    fallback() external pure {
+        revert();
+    }
+
+    modifier onlyOwner {
+        require(msg.sender == owner, Errors.SENDER_IS_NOT_OWNER);
+        _;
+    }
+
+    function getDetails() external view override responsible returns(Details) {
+        return {
+            value: 0,
+            bounce: false,
+            flag: MsgFlag.REMAINING_GAS
+        }  Details(_nonce, owner, fooContract);
+    }
+
+    //deploy Foo contract
+    function deployFooContract() external override {
+        tvm.rawReserve(math.max(address(this).balance - msg.value, 0.3 ever), 0);
+
+        fooContract = new Foo {
+            stateInit: _buildStateInit(),
+            value: _calcValue(Gas.getDeployFooGas()),
+            flag: MsgFlag.SENDER_PAYS_FEES
+        }();
+    }
+
+    function setActiveFoo(bool _active) external override onlyOwner {
+        tvm.rawReserve(math.max(address(this).balance - msg.value, 0.3 ever), 0);
+        IFoo(fooContract).setActive {
+            value: Gas.getSetActiveFoo().fixedValue,
+            flag: MsgFlag.SENDER_PAYS_FEES,
+            bounce: false
+        }(_active);
+
+        owner.transfer(0, false, MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS);
+    }
+
+    function _calcValue(IGasValueStructure.GasValue value) internal pure returns (uint128) {
+        return value.fixedValue + gasToValue(value.dynamicGas, address(this).wid);
+    }
+
+    function _buildStateInit() internal view returns(TvmCell) {
+        return tvm.buildStateInit({
+            contr: Foo,
+            varInit: {
+                deployer: address(this),
+                nowTx: uint64(now)
+            },
+            pubkey: 0,
+            code: fooContractCode
+        });
+    }
+
+}

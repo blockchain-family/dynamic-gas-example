@@ -1,0 +1,9 @@
+pragma ever-solidity 0.64.0;
+
+import "../structures/IBarStructures.tsol";
+
+interface IBar is IBarStructures {
+    function getDetails() external view responsible returns(Details);
+    function deployFooContract() external;
+    function setActiveFoo(bool active) external;
+}

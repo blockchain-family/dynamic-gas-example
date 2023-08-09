@@ -1,0 +1,49 @@
+pragma ever-solidity 0.64.0;
+
+import "@broxus/ever-contracts/contracts/libraries/MsgFlag.tsol";
+import "@broxus/ever-contracts/contracts/libraries/UtilityGas.tsol";
+
+import "./structures/IGasValueStructure.tsol";
+
+import "./libraries/Errors.tsol";
+import "./libraries/Gas.tsol";
+
+contract GasValue {
+
+    uint32 private static _nonce;
+
+    address private _owner;
+    address private _pendingOwner;
+
+    constructor(address owner_) public {
+        tvm.accept();
+
+        _owner = owner_;
+    }
+
+    function transferOwner(address new_owner) public {
+        require(msg.sender == _owner && msg.sender.value != 0, Errors.NOT_OWNER);
+        tvm.rawReserve(UtilityGas.INITIAL_BALANCE, 0);
+
+        _pendingOwner = new_owner;
+
+        _owner.transfer({ value: 0, flag: MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS });
+    }
+
+    function acceptOwner() public {
+        require(msg.sender == _pendingOwner && msg.sender.value != 0, Errors.NOT_PENDING_OWNER);
+        tvm.rawReserve(UtilityGas.INITIAL_BALANCE, 0);
+
+        _owner = _pendingOwner;
+        _pendingOwner = address(0);
+
+        _owner.transfer({ value: 0, flag: MsgFlag.ALL_NOT_RESERVED + MsgFlag.IGNORE_ERRORS });
+    }
+
+    function getDeployFooValue() external pure returns (IGasValueStructure.GasValue) {
+        IGasValueStructure.GasValue deployCluster = Gas.getDeployFooGas();
+
+        return deployCluster;
+    }
+
+}
