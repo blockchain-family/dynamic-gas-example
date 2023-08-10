@@ -4,14 +4,17 @@ pragma  AbiHeader time;
 pragma  AbiHeader expire;
 pragma  AbiHeader pubkey;
 
-import "./libraries/Errors.tsol";
-import "./libraries/Gas.tsol";
-import "./interfaces/IBar.tsol";
-import "./structures/IGasValueStructure.tsol";
 import "@broxus/ever-contracts/contracts/libraries/MsgFlag.tsol";
 
-import "./Foo.tsol";
+import "./interfaces/IBar.tsol";
 import "./interfaces/IFoo.tsol";
+
+import "./libraries/Errors.tsol";
+import "./libraries/Gas.tsol";
+
+import "./structures/IGasValueStructure.tsol";
+
+import "./Foo.tsol";
 
 contract Bar is IBar {
     uint64 static _nonce;
@@ -45,7 +48,7 @@ contract Bar is IBar {
 
     //deploy Foo contract
     function deployFooContract() external override {
-        tvm.rawReserve(math.max(address(this).balance - msg.value, 0.3 ever), 0);
+        tvm.rawReserve(math.max(address(this).balance - msg.value, Gas.TARGET_BALANCE), 0);
 
         fooContract = new Foo {
             stateInit: _buildStateInit(),
@@ -55,7 +58,7 @@ contract Bar is IBar {
     }
 
     function setActiveFoo(bool _active) external override onlyOwner {
-        tvm.rawReserve(math.max(address(this).balance - msg.value, 0.3 ever), 0);
+        tvm.rawReserve(math.max(address(this).balance - msg.value, Gas.TARGET_BALANCE), 0);
         IFoo(fooContract).setActive {
             value: Gas.getSetActiveFoo().fixedValue,
             flag: MsgFlag.SENDER_PAYS_FEES,

@@ -4,6 +4,8 @@ import "../structures/IGasValueStructure.tsol";
 
 library Gas {
 
+    uint128 constant TARGET_BALANCE = 0.3 ever;
+
     // Bar
     uint128 constant DEPLOY_COMPENSATION = 0.1 ever;
 

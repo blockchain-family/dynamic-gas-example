@@ -4,10 +4,12 @@ pragma AbiHeader time;
 pragma AbiHeader expire;
 pragma AbiHeader pubkey;
 
-import "./interfaces/IFoo.tsol";
-import "./libraries/Errors.tsol";
-
 import "@broxus/ever-contracts/contracts/libraries/MsgFlag.tsol";
+
+import "./interfaces/IFoo.tsol";
+
+import "./libraries/Errors.tsol";
+import "./libraries/Gas.tsol";
 
 contract Foo is IFoo {
     address static deployer;
@@ -29,7 +31,7 @@ contract Foo is IFoo {
     }
 
     function setActive(bool _active) external override onlyDeployer {
-        tvm.rawReserve(math.max(address(this).balance - msg.value, 0.3 ever), 0);
+        tvm.rawReserve(math.max(address(this).balance - msg.value, Gas.TARGET_BALANCE), 0);
         active = _active;
     }
 
