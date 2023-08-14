@@ -1,547 +1,397 @@
 {
   "map": {
-    "0788e5e740a319eb283d350e0b6bee66001c6d0a7125148ddd20f648fd34cda0": {
-      "0": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "16": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "32": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "40": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "56": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "64": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "72": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "88": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "136": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "152": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "160": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 48
-      },
-      "176": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "192": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "200": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "216": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "224": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "256": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "272": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "280": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "288": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "296": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "312": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "328": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "336": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "344": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "368": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "376": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "384": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "400": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "408": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "432": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "440": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "456": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "464": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "512": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "520": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "528": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      },
-      "544": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 50
-      }
-    },
     "09fed70392f3a4bd074140fc1f3a41ba4aa5c7ac23a05239007bcb5f96f0f85d": {
       "0": {
         "filename": "Bar.code",
-        "line": 438
+        "line": 444
       },
       "16": {
         "filename": "Bar.code",
-        "line": 439
+        "line": 445
       },
       "32": {
         "filename": "Bar.code",
-        "line": 440
-      },
-      "48": {
-        "filename": "Bar.code",
-        "line": 441
-      },
-      "64": {
-        "filename": "Bar.code",
-        "line": 442
-      },
-      "80": {
-        "filename": "Bar.code",
-        "line": 443
-      },
-      "88": {
-        "filename": "Bar.code",
-        "line": 444
-      },
-      "104": {
-        "filename": "Bar.code",
-        "line": 445
-      },
-      "120": {
-        "filename": "Bar.code",
         "line": 446
       },
-      "136": {
+      "48": {
         "filename": "Bar.code",
         "line": 447
       },
-      "152": {
+      "64": {
         "filename": "Bar.code",
         "line": 448
       },
-      "160": {
+      "80": {
         "filename": "Bar.code",
         "line": 449
       },
-      "168": {
+      "88": {
         "filename": "Bar.code",
         "line": 450
       },
-      "184": {
+      "104": {
         "filename": "Bar.code",
         "line": 451
       },
-      "192": {
+      "120": {
         "filename": "Bar.code",
         "line": 452
       },
-      "200": {
+      "136": {
         "filename": "Bar.code",
         "line": 453
       },
-      "208": {
+      "152": {
         "filename": "Bar.code",
         "line": 454
       },
-      "216": {
+      "160": {
         "filename": "Bar.code",
         "line": 455
+      },
+      "168": {
+        "filename": "Bar.code",
+        "line": 456
+      },
+      "184": {
+        "filename": "Bar.code",
+        "line": 457
+      },
+      "192": {
+        "filename": "Bar.code",
+        "line": 458
+      },
+      "200": {
+        "filename": "Bar.code",
+        "line": 459
+      },
+      "208": {
+        "filename": "Bar.code",
+        "line": 460
+      },
+      "216": {
+        "filename": "Bar.code",
+        "line": 461
       }
     },
-    "0f53e81495d7b22d17bfaecb7988bda8d64b12a88a4821d02a9bfadcbbe8807c": {
+    "132b1112052732e8dfcd061df1cb6c3784781e14ea8af3bb1293e1e4f2eea1f9": {
       "0": {
-        "filename": "Bar.code",
-        "line": 153
+        "filename": "<entry-selector>",
+        "line": 1
       },
       "8": {
-        "filename": "Bar.code",
-        "line": 154
+        "filename": "<entry-selector>",
+        "line": 2
       },
       "24": {
-        "filename": "Bar.code",
-        "line": 155
+        "filename": "<entry-selector>",
+        "line": 3
+      },
+      "32": {
+        "filename": "<entry-selector>",
+        "line": 4
       },
       "48": {
-        "filename": "Bar.code",
-        "line": 156
+        "filename": "<entry-selector>",
+        "line": 5
       },
-      "64": {
-        "filename": "Bar.code",
-        "line": 157
+      "56": {
+        "filename": "<entry-selector>",
+        "line": 6
       },
       "72": {
-        "filename": "Bar.code",
-        "line": 158
+        "filename": "<entry-selector>",
+        "line": 7
       },
       "88": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 47
+        "filename": "<entry-selector>",
+        "line": 8
       },
       "96": {
-        "filename": "Bar.code",
-        "line": 164
+        "filename": "<entry-selector>",
+        "line": 9
       },
       "112": {
-        "filename": "Bar.code",
-        "line": 167
+        "filename": "<entry-selector>",
+        "line": 10
       },
       "128": {
-        "filename": "Bar.code",
-        "line": 170
+        "filename": "<entry-selector>",
+        "line": 11
       }
     },
     "167cbcddb50e29cce7c28a14df73bae947a561cc10d9c38c298a1e02278eb4e6": {
       "0": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "8": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "24": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "32": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "40": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "56": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "64": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "72": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "88": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "96": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "104": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "120": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "128": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "136": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "152": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "168": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "184": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       },
       "192": {
         "filename": "../contracts/Bar.tsol",
-        "line": 50
+        "line": 57
       }
     },
     "1c9bc06af6ef16ca9e1abc6343503a34e4b2161ef8b39a63b00a0883624e68cc": {
       "0": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "8": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "16": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "32": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "40": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "48": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "64": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "80": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "96": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "104": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "112": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "128": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "144": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "160": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "168": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "184": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "192": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "200": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "216": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "232": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "240": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "256": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "264": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "280": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "288": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "312": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "328": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "344": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       },
       "360": {
         "filename": "../contracts/Bar.tsol",
-        "line": 73
+        "line": 85
       }
     },
     "2560f66a84e2bf4c8100d05bb22d6cc966784bacb9df3ce933a7e94ca4432402": {
       "0": {
         "filename": "Bar.code",
-        "line": 373
+        "line": 379
       },
       "16": {
         "filename": "Bar.code",
-        "line": 374
+        "line": 380
       },
       "24": {
         "filename": "Bar.code",
-        "line": 375
+        "line": 381
       },
       "40": {
         "filename": "Bar.code",
-        "line": 376
+        "line": 382
       },
       "56": {
         "filename": "Bar.code",
-        "line": 377
+        "line": 383
       },
       "72": {
         "filename": "Bar.code",
-        "line": 378
+        "line": 384
       },
       "80": {
         "filename": "Bar.code",
-        "line": 379
+        "line": 385
       },
       "96": {
         "filename": "Bar.code",
-        "line": 380
+        "line": 386
       },
       "112": {
         "filename": "Bar.code",
-        "line": 381
+        "line": 387
       },
       "120": {
         "filename": "Bar.code",
-        "line": 382
+        "line": 388
       },
       "128": {
         "filename": "Bar.code",
-        "line": 383
+        "line": 389
       },
       "136": {
         "filename": "Bar.code",
-        "line": 384
+        "line": 390
       },
       "144": {
         "filename": "Bar.code",
-        "line": 385
+        "line": 391
       },
       "160": {
         "filename": "Bar.code",
-        "line": 386
+        "line": 392
       },
       "168": {
         "filename": "Bar.code",
-        "line": 387
+        "line": 393
       },
       "184": {
         "filename": "Bar.code",
-        "line": 388
+        "line": 394
       },
       "200": {
         "filename": "Bar.code",
-        "line": 389
+        "line": 395
       },
       "216": {
         "filename": "Bar.code",
-        "line": 390
+        "line": 396
       },
       "232": {
         "filename": "Bar.code",
-        "line": 391
+        "line": 397
       },
       "248": {
         "filename": "Bar.code",
-        "line": 392
+        "line": 398
       }
     },
     "26064520b815e6683bc61a1f747a3ec0bc992ba64f61996f444d2c8d511d0f3d": {
@@ -710,52 +560,6 @@
         "line": 134
       }
     },
-    "263d61730c0101596f75a1e385250f365a20bfd4fd495de8d0baed49d419b4d1": {
-      "0": {
-        "filename": "<entry-selector>",
-        "line": 1
-      },
-      "8": {
-        "filename": "<entry-selector>",
-        "line": 2
-      },
-      "24": {
-        "filename": "<entry-selector>",
-        "line": 3
-      },
-      "32": {
-        "filename": "<entry-selector>",
-        "line": 4
-      },
-      "48": {
-        "filename": "<entry-selector>",
-        "line": 5
-      },
-      "56": {
-        "filename": "<entry-selector>",
-        "line": 6
-      },
-      "72": {
-        "filename": "<entry-selector>",
-        "line": 7
-      },
-      "88": {
-        "filename": "<entry-selector>",
-        "line": 8
-      },
-      "96": {
-        "filename": "<entry-selector>",
-        "line": 9
-      },
-      "112": {
-        "filename": "<entry-selector>",
-        "line": 10
-      },
-      "128": {
-        "filename": "<entry-selector>",
-        "line": 11
-      }
-    },
     "2d248c07b982607eb3d55de5d4c38a2bea36438950c8f416b1bc3746026fdbdb": {
       "0": {
         "filename": "Bar.code",
@@ -819,19 +623,19 @@
       },
       "160": {
         "filename": "../contracts/Bar.tsol",
-        "line": 24
+        "line": 27
       },
       "176": {
         "filename": "../contracts/Bar.tsol",
-        "line": 25
+        "line": 28
       },
       "184": {
         "filename": "../contracts/Bar.tsol",
-        "line": 25
+        "line": 28
       },
       "200": {
         "filename": "../contracts/Bar.tsol",
-        "line": 26
+        "line": 29
       },
       "216": {
         "filename": "Bar.code",
@@ -842,256 +646,270 @@
         "line": 33
       }
     },
-    "37311b78c8f3c6cebea4798501ec4732035bf158bccaf3b8122fe67c1d4b4de3": {
-      "0": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 14
-      },
-      "48": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 14
-      },
-      "96": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 14
-      },
-      "104": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 14
-      },
-      "120": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 14
-      },
-      "152": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 14
-      }
-    },
-    "3ba6f0cba2d30eca4a13c1c07788f69d79ddd4657d69f284444f953c70d3ea3f": {
-      "0": {
-        "filename": "<internal-selector>",
-        "line": 1
-      },
-      "24": {
-        "filename": "<internal-selector>",
-        "line": 2
-      }
-    },
-    "3c496e1f655c0dbe0a733ca5f536d20f143e766930094d2eabce6b6641eafbd9": {
+    "2f736794ae90d71c6448fdd89bf9b4cc726e9c3b40a1e31d5e7555b895a35bc7": {
       "0": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
       "16": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
-      "24": {
+      "32": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
       "40": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
       "48": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
-      "64": {
+      "72": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
       "80": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
-      "96": {
+      "88": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
+      },
+      "104": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
       },
       "112": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
-      "128": {
+      "136": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
       "144": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
       },
       "160": {
         "filename": "../contracts/Bar.tsol",
-        "line": 43
+        "line": 57
+      },
+      "168": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "216": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "224": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "232": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "248": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
       }
     },
-    "4880692c85f60569bb92ca48963eee6be8654e67ca8a6c4c371b22599e3dfcb5": {
+    "39b0b890342f984bf8cf771d6562451b0d617f163f926f3e72164ae3c6ced976": {
+      "0": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 16
+      },
+      "48": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 16
+      },
+      "96": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 16
+      },
+      "104": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 16
+      },
+      "120": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 16
+      },
+      "152": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 16
+      }
+    },
+    "39d38ff2f38c439c659940745ccc69f8628690f99bfb4e8be3beee88cee51b65": {
       "0": {
         "filename": "Bar.code",
-        "line": 529
+        "line": 535
       },
       "16": {
         "filename": "Bar.code",
-        "line": 530
+        "line": 536
       },
       "24": {
         "filename": "Bar.code",
-        "line": 531
+        "line": 537
       },
       "40": {
         "filename": "Bar.code",
-        "line": 532
+        "line": 538
       },
       "56": {
         "filename": "Bar.code",
-        "line": 533
+        "line": 539
       },
       "72": {
         "filename": "Bar.code",
-        "line": 534
+        "line": 540
       },
       "80": {
         "filename": "Bar.code",
-        "line": 537
+        "line": 543
       },
       "96": {
         "filename": "Bar.code",
-        "line": 538
+        "line": 544
       },
       "104": {
         "filename": "Bar.code",
-        "line": 539
+        "line": 545
       },
       "120": {
         "filename": "Bar.code",
-        "line": 542
+        "line": 548
       },
       "136": {
         "filename": "Bar.code",
-        "line": 543
+        "line": 549
       },
       "144": {
         "filename": "Bar.code",
-        "line": 544
+        "line": 550
       },
       "160": {
         "filename": "Bar.code",
-        "line": 545
+        "line": 551
       },
       "176": {
         "filename": "Bar.code",
-        "line": 546
+        "line": 552
       },
       "192": {
         "filename": "Bar.code",
-        "line": 547
+        "line": 553
       },
       "200": {
         "filename": "Bar.code",
-        "line": 548
+        "line": 554
       },
       "216": {
         "filename": "Bar.code",
-        "line": 549
+        "line": 555
       },
       "224": {
         "filename": "Bar.code",
-        "line": 550
+        "line": 556
       },
       "232": {
         "filename": "Bar.code",
-        "line": 551
+        "line": 557
       },
       "240": {
         "filename": "Bar.code",
-        "line": 552
+        "line": 558
       },
       "248": {
         "filename": "Bar.code",
-        "line": 553
+        "line": 559
       },
       "264": {
         "filename": "Bar.code",
-        "line": 554
+        "line": 560
       },
       "272": {
         "filename": "Bar.code",
-        "line": 555
+        "line": 561
       },
       "288": {
         "filename": "Bar.code",
-        "line": 556
+        "line": 562
       },
       "296": {
         "filename": "Bar.code",
-        "line": 557
+        "line": 563
       },
       "304": {
         "filename": "Bar.code",
-        "line": 558
+        "line": 564
       },
       "320": {
         "filename": "Bar.code",
-        "line": 559
+        "line": 565
       },
       "328": {
         "filename": "Bar.code",
-        "line": 560
+        "line": 566
       },
       "336": {
         "filename": "Bar.code",
-        "line": 562
+        "line": 568
       },
       "344": {
         "filename": "Bar.code",
-        "line": 563
+        "line": 569
       },
       "352": {
         "filename": "Bar.code",
-        "line": 564
+        "line": 570
       },
       "368": {
         "filename": "Bar.code",
-        "line": 566
+        "line": 572
       },
       "376": {
         "filename": "Bar.code",
-        "line": 567
+        "line": 573
       },
       "392": {
         "filename": "Bar.code",
-        "line": 568
+        "line": 574
       },
       "408": {
         "filename": "Bar.code",
-        "line": 570
+        "line": 576
       },
       "416": {
         "filename": "Bar.code",
-        "line": 571
+        "line": 577
       },
       "432": {
         "filename": "Bar.code",
-        "line": 572
+        "line": 578
       },
       "440": {
         "filename": "Bar.code",
-        "line": 573
+        "line": 579
       },
       "456": {
         "filename": "Bar.code",
-        "line": 575
+        "line": 581
       },
       "464": {
         "filename": "Bar.code",
-        "line": 576
+        "line": 582
       },
       "480": {
         "filename": "Bar.code",
-        "line": 577
+        "line": 583
       },
       "488": {
         "filename": "stdlib.sol",
@@ -1147,375 +965,395 @@
       },
       "680": {
         "filename": "Bar.code",
-        "line": 579
+        "line": 585
       },
       "696": {
         "filename": "Bar.code",
-        "line": 580
+        "line": 586
       },
       "704": {
         "filename": "Bar.code",
-        "line": 581
+        "line": 587
       },
       "720": {
         "filename": "Bar.code",
-        "line": 582
+        "line": 588
       },
       "728": {
         "filename": "Bar.code",
-        "line": 583
+        "line": 589
       },
       "744": {
         "filename": "Bar.code",
-        "line": 584
+        "line": 590
       },
       "760": {
         "filename": "Bar.code",
-        "line": 585
+        "line": 591
       },
       "768": {
         "filename": "Bar.code",
-        "line": 586
+        "line": 592
       },
       "784": {
         "filename": "Bar.code",
-        "line": 589
+        "line": 595
       },
       "792": {
         "filename": "Bar.code",
-        "line": 590
+        "line": 596
       }
     },
-    "4884a4fa54c59229b164137ee066522df167995db0bfe925bbbaaba75c242753": {
+    "3a495961bdeac5cd8dbf24377bebd156335571270b4f26e7124cda498d1ee671": {
       "0": {
         "filename": "Bar.code",
-        "line": 243
+        "line": 480
       },
-      "8": {
+      "16": {
         "filename": "Bar.code",
-        "line": 244
+        "line": 481
       },
       "24": {
         "filename": "Bar.code",
-        "line": 245
+        "line": 482
       },
-      "48": {
+      "40": {
         "filename": "Bar.code",
-        "line": 246
+        "line": 483
       },
-      "64": {
+      "56": {
         "filename": "Bar.code",
-        "line": 247
+        "line": 484
       },
       "72": {
         "filename": "Bar.code",
-        "line": 248
+        "line": 485
+      },
+      "80": {
+        "filename": "Bar.code",
+        "line": 486
       },
       "88": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 57
+        "filename": "Bar.code",
+        "line": 487
       },
       "104": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 57
-      },
-      "112": {
         "filename": "Bar.code",
-        "line": 255
+        "line": 488
+      },
+      "120": {
+        "filename": "Bar.code",
+        "line": 489
       },
       "128": {
         "filename": "Bar.code",
-        "line": 258
+        "line": 490
       },
       "144": {
         "filename": "Bar.code",
-        "line": 261
+        "line": 491
+      },
+      "168": {
+        "filename": "Bar.code",
+        "line": 492
+      },
+      "184": {
+        "filename": "Bar.code",
+        "line": 493
+      },
+      "192": {
+        "filename": "Bar.code",
+        "line": 494
+      },
+      "208": {
+        "filename": "Bar.code",
+        "line": 495
+      },
+      "248": {
+        "filename": "Bar.code",
+        "line": 496
+      },
+      "264": {
+        "filename": "Bar.code",
+        "line": 497
+      },
+      "272": {
+        "filename": "Bar.code",
+        "line": 498
+      },
+      "288": {
+        "filename": "Bar.code",
+        "line": 499
+      },
+      "296": {
+        "filename": "Bar.code",
+        "line": 500
+      },
+      "312": {
+        "filename": "Bar.code",
+        "line": 501
+      },
+      "328": {
+        "filename": "Bar.code",
+        "line": 502
+      },
+      "336": {
+        "filename": "Bar.code",
+        "line": 503
+      },
+      "344": {
+        "filename": "Bar.code",
+        "line": 504
+      },
+      "360": {
+        "filename": "Bar.code",
+        "line": 505
+      },
+      "376": {
+        "filename": "Bar.code",
+        "line": 509
+      },
+      "384": {
+        "filename": "Bar.code",
+        "line": 510
+      },
+      "408": {
+        "filename": "Bar.code",
+        "line": 511
+      },
+      "424": {
+        "filename": "Bar.code",
+        "line": 518
+      },
+      "432": {
+        "filename": "Bar.code",
+        "line": 519
+      },
+      "440": {
+        "filename": "Bar.code",
+        "line": 520
+      },
+      "456": {
+        "filename": "Bar.code",
+        "line": 524
+      }
+    },
+    "3ba6f0cba2d30eca4a13c1c07788f69d79ddd4657d69f284444f953c70d3ea3f": {
+      "0": {
+        "filename": "<internal-selector>",
+        "line": 1
+      },
+      "24": {
+        "filename": "<internal-selector>",
+        "line": 2
+      }
+    },
+    "3c496e1f655c0dbe0a733ca5f536d20f143e766930094d2eabce6b6641eafbd9": {
+      "0": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "16": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "24": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "40": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "48": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "64": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "80": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "96": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "112": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "128": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "144": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      },
+      "160": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 46
+      }
+    },
+    "46e96961d787938010e10799731c0d8f173004efbb796542cd676d42448a5536": {
+      "0": {
+        "filename": "Bar.code",
+        "line": 245
+      },
+      "8": {
+        "filename": "Bar.code",
+        "line": 246
+      },
+      "24": {
+        "filename": "Bar.code",
+        "line": 247
+      },
+      "48": {
+        "filename": "Bar.code",
+        "line": 248
+      },
+      "64": {
+        "filename": "Bar.code",
+        "line": 249
+      },
+      "72": {
+        "filename": "Bar.code",
+        "line": 250
+      },
+      "88": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 64
+      },
+      "104": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 64
+      },
+      "112": {
+        "filename": "Bar.code",
+        "line": 257
+      },
+      "128": {
+        "filename": "Bar.code",
+        "line": 260
+      },
+      "144": {
+        "filename": "Bar.code",
+        "line": 263
       }
     },
     "4ef3e1bbe17a1c6583329b08239e94539f0c2e376079b16c7ff0c20412bbf66a": {
       "0": {
         "filename": "Bar.code",
-        "line": 400
+        "line": 406
       },
       "8": {
         "filename": "Bar.code",
-        "line": 401
+        "line": 407
       },
       "24": {
         "filename": "Bar.code",
-        "line": 402
-      },
-      "32": {
-        "filename": "Bar.code",
-        "line": 403
-      },
-      "48": {
-        "filename": "Bar.code",
-        "line": 404
-      },
-      "56": {
-        "filename": "Bar.code",
-        "line": 405
-      },
-      "64": {
-        "filename": "Bar.code",
-        "line": 406
-      },
-      "80": {
-        "filename": "Bar.code",
-        "line": 407
-      },
-      "96": {
-        "filename": "Bar.code",
         "line": 408
       },
-      "112": {
+      "32": {
         "filename": "Bar.code",
         "line": 409
       },
-      "120": {
+      "48": {
         "filename": "Bar.code",
         "line": 410
       },
-      "144": {
+      "56": {
+        "filename": "Bar.code",
+        "line": 411
+      },
+      "64": {
         "filename": "Bar.code",
         "line": 412
       },
-      "152": {
+      "80": {
         "filename": "Bar.code",
         "line": 413
       },
-      "160": {
+      "96": {
+        "filename": "Bar.code",
+        "line": 414
+      },
+      "112": {
+        "filename": "Bar.code",
+        "line": 415
+      },
+      "120": {
         "filename": "Bar.code",
         "line": 416
       },
-      "168": {
+      "144": {
         "filename": "Bar.code",
         "line": 418
       },
-      "176": {
+      "152": {
         "filename": "Bar.code",
-        "line": 421
+        "line": 419
       },
-      "192": {
+      "160": {
         "filename": "Bar.code",
         "line": 422
       },
-      "208": {
-        "filename": "Bar.code",
-        "line": 423
-      },
-      "224": {
+      "168": {
         "filename": "Bar.code",
         "line": 424
       },
-      "240": {
-        "filename": "Bar.code",
-        "line": 425
-      },
-      "256": {
-        "filename": "Bar.code",
-        "line": 426
-      },
-      "272": {
+      "176": {
         "filename": "Bar.code",
         "line": 427
       },
-      "288": {
+      "192": {
         "filename": "Bar.code",
         "line": 428
       },
-      "312": {
+      "208": {
         "filename": "Bar.code",
         "line": 429
       },
-      "328": {
+      "224": {
         "filename": "Bar.code",
         "line": 430
       },
-      "336": {
+      "240": {
         "filename": "Bar.code",
         "line": 431
-      }
-    },
-    "571b274882a72bb50c0a94bf44ba05092d8e328d7c1383aba8342ec63493a238": {
-      "0": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 34
       },
-      "16": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 34
+      "256": {
+        "filename": "Bar.code",
+        "line": 432
       },
-      "32": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 34
+      "272": {
+        "filename": "Bar.code",
+        "line": 433
       },
-      "48": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 34
-      },
-      "72": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "88": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "104": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "112": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "128": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "136": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "144": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "160": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "208": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "224": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "232": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 58
-      },
-      "248": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "264": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "280": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "296": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "304": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
+      "288": {
+        "filename": "Bar.code",
+        "line": 434
       },
       "312": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
+        "filename": "Bar.code",
+        "line": 435
+      },
+      "328": {
+        "filename": "Bar.code",
+        "line": 436
       },
       "336": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "352": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "376": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "384": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "392": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "408": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "456": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "480": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "496": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "504": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "512": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 59
-      },
-      "528": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "544": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "552": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "576": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "584": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "600": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "616": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "624": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "640": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "656": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
-      },
-      "672": {
-        "filename": "../contracts/Bar.tsol",
-        "line": 65
+        "filename": "Bar.code",
+        "line": 437
       }
     },
     "61ab4641fa30d9310391025086eec65d200d79268e1b7cd402565e01ba64be3c": {
       "0": {
         "filename": "Bar.code",
-        "line": 535
+        "line": 420
       }
     },
     "6903990f07337883c485f226ed890dff4e539f38ea080d0918285663617ecee6": {
@@ -1604,247 +1442,225 @@
         "line": 79
       }
     },
-    "74ecb7a8b8ea49a441319fd7b9c89ee96548a0afe0b14b4174ce6d70a5b9f9cb": {
+    "770e074af8e7273b531eaa136be5259e8d42e3fea122b712a4e0b4ed09982c93": {
       "0": {
         "filename": "Bar.code",
-        "line": 620
+        "line": 525
       },
-      "8": {
+      "16": {
         "filename": "Bar.code",
-        "line": 621
+        "line": 528
       },
-      "56": {
+      "24": {
         "filename": "Bar.code",
-        "line": 622
-      },
-      "64": {
-        "filename": "Bar.code",
-        "line": 623
-      },
-      "80": {
-        "filename": "Bar.code",
-        "line": 626
-      },
-      "88": {
-        "filename": "Bar.code",
-        "line": 627
-      },
-      "136": {
-        "filename": "Bar.code",
-        "line": 628
-      },
-      "144": {
-        "filename": "Bar.code",
-        "line": 629
-      },
-      "160": {
-        "filename": "Bar.code",
-        "line": 632
-      },
-      "168": {
-        "filename": "Bar.code",
-        "line": 633
-      },
-      "216": {
-        "filename": "Bar.code",
-        "line": 634
-      },
-      "224": {
-        "filename": "Bar.code",
-        "line": 635
-      },
-      "240": {
-        "filename": "Bar.code",
-        "line": 638
-      },
-      "248": {
-        "filename": "Bar.code",
-        "line": 639
-      },
-      "296": {
-        "filename": "Bar.code",
-        "line": 640
-      },
-      "304": {
-        "filename": "Bar.code",
-        "line": 641
-      }
-    },
-    "768748444f11e9a78d9f21b420a7e4431dbe7caff04559ff4690355165b890b1": {
-      "0": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 25
-      },
-      "48": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 25
-      },
-      "56": {
-        "filename": "../contracts/libraries/Gas.tsol",
-        "line": 25
+        "line": 529
       }
     },
     "77a455a95c5fd63be45495bc91e82f966544b46ec4520ae8036c7905caadf844": {
       "0": {
         "filename": "Bar.code",
-        "line": 506
+        "line": 512
       },
       "8": {
         "filename": "Bar.code",
-        "line": 507
+        "line": 513
       },
       "24": {
         "filename": "Bar.code",
-        "line": 510
+        "line": 516
       }
     },
-    "792a256b79bdf85f84b910679cf7eaabf301a5294bf77bdf37ee45ea7be085f2": {
+    "7fcbc2977d17b120e0c69edffeab5121e9c2cb4db2ad1c028edd5f213bf6916c": {
       "0": {
         "filename": "Bar.code",
-        "line": 519
+        "line": 626
       },
-      "16": {
+      "8": {
         "filename": "Bar.code",
-        "line": 522
-      },
-      "24": {
-        "filename": "Bar.code",
-        "line": 523
-      }
-    },
-    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
-    "a190d8cf85055836604b5e2def4f6d3e0b784483e35c9036e8ca39ebffcfec8b": {
-      "0": {
-        "filename": "Bar.code",
-        "line": 474
-      },
-      "16": {
-        "filename": "Bar.code",
-        "line": 475
-      },
-      "24": {
-        "filename": "Bar.code",
-        "line": 476
-      },
-      "40": {
-        "filename": "Bar.code",
-        "line": 477
+        "line": 627
       },
       "56": {
         "filename": "Bar.code",
-        "line": 478
+        "line": 628
       },
-      "72": {
+      "64": {
         "filename": "Bar.code",
-        "line": 479
+        "line": 629
       },
       "80": {
         "filename": "Bar.code",
-        "line": 480
+        "line": 632
       },
       "88": {
         "filename": "Bar.code",
-        "line": 481
+        "line": 633
       },
-      "104": {
+      "136": {
         "filename": "Bar.code",
-        "line": 482
-      },
-      "120": {
-        "filename": "Bar.code",
-        "line": 483
-      },
-      "128": {
-        "filename": "Bar.code",
-        "line": 484
+        "line": 634
       },
       "144": {
         "filename": "Bar.code",
-        "line": 485
+        "line": 635
+      },
+      "160": {
+        "filename": "Bar.code",
+        "line": 638
       },
       "168": {
         "filename": "Bar.code",
-        "line": 486
+        "line": 639
       },
-      "184": {
+      "216": {
         "filename": "Bar.code",
-        "line": 487
+        "line": 640
       },
-      "192": {
+      "224": {
         "filename": "Bar.code",
-        "line": 488
+        "line": 641
       },
-      "208": {
+      "240": {
         "filename": "Bar.code",
-        "line": 489
+        "line": 644
       },
       "248": {
         "filename": "Bar.code",
-        "line": 490
-      },
-      "264": {
-        "filename": "Bar.code",
-        "line": 491
-      },
-      "272": {
-        "filename": "Bar.code",
-        "line": 492
-      },
-      "288": {
-        "filename": "Bar.code",
-        "line": 493
+        "line": 645
       },
       "296": {
         "filename": "Bar.code",
-        "line": 494
+        "line": 646
       },
-      "312": {
+      "304": {
         "filename": "Bar.code",
-        "line": 495
+        "line": 647
+      }
+    },
+    "96a296d224f285c67bee93c30f8a309157f0daa35dc5b87e410b78630a09cfc7": {},
+    "9703249ceb15a5b6be2886a886af3d71c8fe2c19dbfa20ac5dd6ee4c535177a0": {
+      "0": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 51
       },
-      "328": {
-        "filename": "Bar.code",
-        "line": 496
+      "48": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 51
       },
-      "336": {
-        "filename": "Bar.code",
-        "line": 497
+      "64": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 51
       },
-      "344": {
-        "filename": "Bar.code",
-        "line": 498
+      "80": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 51
       },
-      "360": {
-        "filename": "Bar.code",
-        "line": 499
+      "88": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 51
       },
-      "376": {
-        "filename": "Bar.code",
-        "line": 503
+      "112": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 55
       },
-      "384": {
-        "filename": "Bar.code",
-        "line": 504
+      "160": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 55
       },
-      "408": {
-        "filename": "Bar.code",
-        "line": 505
+      "168": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 55
       },
-      "424": {
-        "filename": "Bar.code",
-        "line": 512
+      "184": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
       },
-      "432": {
-        "filename": "Bar.code",
-        "line": 513
+      "200": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
       },
-      "440": {
-        "filename": "Bar.code",
-        "line": 514
+      "208": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
       },
-      "456": {
+      "224": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "232": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "264": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "280": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "288": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      },
+      "296": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 57
+      }
+    },
+    "a962c179d3698c39ea64916cabe4950dea9f3fffa9d179874c0b4c2a455c7ac4": {
+      "0": {
         "filename": "Bar.code",
-        "line": 518
+        "line": 153
+      },
+      "8": {
+        "filename": "Bar.code",
+        "line": 154
+      },
+      "24": {
+        "filename": "Bar.code",
+        "line": 155
+      },
+      "48": {
+        "filename": "Bar.code",
+        "line": 156
+      },
+      "64": {
+        "filename": "Bar.code",
+        "line": 157
+      },
+      "72": {
+        "filename": "Bar.code",
+        "line": 158
+      },
+      "88": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 50
+      },
+      "96": {
+        "filename": "Bar.code",
+        "line": 164
+      },
+      "112": {
+        "filename": "Bar.code",
+        "line": 167
+      },
+      "128": {
+        "filename": "Bar.code",
+        "line": 170
+      }
+    },
+    "b2549f27c8592844f92226f4746d0f0e183223611567d4aa0a36be492c13badf": {
+      "0": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 27
+      },
+      "48": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 27
+      },
+      "56": {
+        "filename": "../contracts/libraries/Gas.tsol",
+        "line": 27
       }
     },
     "c3f87b5bdfbfea9519c1804dc08df7f5d9fb1a96c2801d5e74995f8085f15d10": {
@@ -1858,75 +1674,75 @@
       },
       "40": {
         "filename": "../contracts/Bar.tsol",
-        "line": 30
+        "line": 33
       }
     },
     "c718ce70fb4226b4140f7808b7a3808e148e26d4cf33cabb35b941c0230e3234": {
       "0": {
         "filename": "Bar.code",
-        "line": 395
+        "line": 401
       },
       "16": {
         "filename": "Bar.code",
-        "line": 396
+        "line": 402
       },
       "24": {
         "filename": "Bar.code",
-        "line": 397
+        "line": 403
       },
       "40": {
         "filename": "Bar.code",
-        "line": 398
+        "line": 404
       },
       "56": {
         "filename": "Bar.code",
-        "line": 399
+        "line": 405
       },
       "72": {
         "filename": "Bar.code",
-        "line": 433
+        "line": 439
       }
     },
     "c8d42ffe754ca767746700d253cd1dcba38315a3d556d554abc86bae9a022d3e": {
       "0": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "8": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "24": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "32": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "48": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "64": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "80": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "96": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "112": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       },
       "120": {
         "filename": "../contracts/Bar.tsol",
-        "line": 69
+        "line": 81
       }
     },
     "d67d017829fd701394a2b9e4ec5e2680613c792025dd4034d006a6bdad00651e": {
@@ -1970,27 +1786,27 @@
       },
       "88": {
         "filename": "../contracts/Bar.tsol",
-        "line": 38
+        "line": 41
       },
       "104": {
         "filename": "../contracts/Bar.tsol",
-        "line": 38
+        "line": 41
       },
       "120": {
         "filename": "../contracts/Bar.tsol",
-        "line": 38
+        "line": 41
       },
       "128": {
         "filename": "../contracts/Bar.tsol",
-        "line": 38
+        "line": 41
       },
       "144": {
         "filename": "../contracts/Bar.tsol",
-        "line": 38
+        "line": 41
       },
       "160": {
         "filename": "../contracts/Bar.tsol",
-        "line": 38
+        "line": 41
       },
       "168": {
         "filename": "Bar.code",
@@ -2122,65 +1938,227 @@
     "e6936e8f0e7b8fe98c2ca66eee9d4e9dafcfc747defef9cb795288fabb1b7ef3": {
       "0": {
         "filename": "Bar.code",
-        "line": 458
+        "line": 464
       },
       "16": {
         "filename": "Bar.code",
-        "line": 459
+        "line": 465
       },
       "24": {
         "filename": "Bar.code",
-        "line": 460
+        "line": 466
       },
       "40": {
         "filename": "Bar.code",
-        "line": 461
+        "line": 467
       },
       "56": {
         "filename": "Bar.code",
-        "line": 462
+        "line": 468
       },
       "64": {
         "filename": "Bar.code",
-        "line": 463
+        "line": 469
       },
       "80": {
         "filename": "Bar.code",
-        "line": 464
+        "line": 470
       },
       "88": {
         "filename": "Bar.code",
-        "line": 465
+        "line": 471
       },
       "96": {
         "filename": "Bar.code",
-        "line": 466
+        "line": 472
       },
       "112": {
         "filename": "Bar.code",
-        "line": 467
+        "line": 473
       },
       "128": {
         "filename": "Bar.code",
-        "line": 468
+        "line": 474
       },
       "136": {
         "filename": "Bar.code",
-        "line": 469
+        "line": 475
       },
       "144": {
         "filename": "Bar.code",
-        "line": 470
+        "line": 476
+      }
+    },
+    "ed06a4e47c207fe12e17b233e220965fedb7cc1458a89fe9cd76ff52c0f9de3e": {
+      "0": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 37
+      },
+      "16": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 37
+      },
+      "32": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 37
+      },
+      "48": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 37
+      },
+      "72": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 65
+      },
+      "120": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 65
+      },
+      "136": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 65
+      },
+      "152": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 65
+      },
+      "160": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 65
+      },
+      "184": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 69
+      },
+      "232": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 69
+      },
+      "240": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 69
+      },
+      "256": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "272": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "288": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "304": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "312": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "320": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "344": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "360": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "384": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "392": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "400": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "416": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "464": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "488": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "504": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "512": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "520": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 71
+      },
+      "536": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "552": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "560": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "584": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "592": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "608": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "624": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "632": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "648": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "664": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
+      },
+      "680": {
+        "filename": "../contracts/Bar.tsol",
+        "line": 77
       }
     },
     "f24e1e7aa04d89aad2945816b6e9b921f2b3892da9ba53e2383c148351b96d0c": {
       "0": {
         "filename": "Bar.code",
-        "line": 500
+        "line": 506
       },
       "16": {
         "filename": "Bar.code",
-        "line": 501
+        "line": 507
       }
     }
   }

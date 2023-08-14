@@ -31,8 +31,16 @@ contract Foo is IFoo {
     }
 
     function setActive(bool _active) external override onlyDeployer {
-        tvm.rawReserve(math.max(address(this).balance - msg.value, Gas.TARGET_BALANCE), 0);
+        require(
+            Gas.FOO_TARGET_BALANCE >= _calcValue(Gas.getSetActiveFoo()),
+            Errors.VALUE_TOO_LOW
+        );
+        tvm.rawReserve(Gas.FOO_TARGET_BALANCE, 0);
         active = _active;
+    }
+
+    function _calcValue(IGasValueStructure.GasValue value) internal pure returns (uint128) {
+        return value.fixedValue + gasToValue(value.dynamicGas, address(this).wid);
     }
 
 }

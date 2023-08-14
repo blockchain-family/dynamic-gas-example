@@ -48,7 +48,11 @@ contract Bar is IBar {
 
     //deploy Foo contract
     function deployFooContract() external override {
-        tvm.rawReserve(math.max(address(this).balance - msg.value, Gas.TARGET_BALANCE), 0);
+        require(
+            Gas.TARGET_BALANCE >= _calcValue(Gas.getDeployFooGas()),
+            Errors.VALUE_TOO_LOW
+        );
+        tvm.rawReserve(Gas.TARGET_BALANCE, 0);
 
         fooContract = new Foo {
             stateInit: _buildStateInit(),
@@ -58,9 +62,14 @@ contract Bar is IBar {
     }
 
     function setActiveFoo(bool _active) external override onlyOwner {
-        tvm.rawReserve(math.max(address(this).balance - msg.value, Gas.TARGET_BALANCE), 0);
+        require(
+            Gas.TARGET_BALANCE >= _calcValue(Gas.getSetActiveFoo()),
+            Errors.VALUE_TOO_LOW
+        );
+        tvm.rawReserve(Gas.TARGET_BALANCE, 0);
+
         IFoo(fooContract).setActive {
-            value: Gas.getSetActiveFoo().fixedValue,
+            value: _calcValue(Gas.getSetActiveFoo()),
             flag: MsgFlag.SENDER_PAYS_FEES,
             bounce: false
         }(_active);

@@ -8,7 +8,7 @@ import "./structures/IGasValueStructure.tsol";
 import "./libraries/Errors.tsol";
 import "./libraries/Gas.tsol";
 
-contract GasValue {
+contract GasValues {
 
     uint32 private static _nonce;
 
@@ -41,9 +41,11 @@ contract GasValue {
     }
 
     function getDeployFooValue() external pure returns (IGasValueStructure.GasValue) {
-        IGasValueStructure.GasValue deployCluster = Gas.getDeployFooGas();
+        return Gas.getDeployFooGas();
+    }
 
-        return deployCluster;
+    function getSetActiveFooValue() external pure returns(IGasValueStructure.GasValue) {
+        return Gas.getSetActiveFoo();
     }
 
 }

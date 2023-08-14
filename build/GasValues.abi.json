@@ -33,6 +33,14 @@
 			"outputs": [
 				{"components":[{"name":"fixedValue","type":"uint128"},{"name":"dynamicGas","type":"uint128"}],"name":"value0","type":"tuple"}
 			]
+		},
+		{
+			"name": "getSetActiveFooValue",
+			"inputs": [
+			],
+			"outputs": [
+				{"components":[{"name":"fixedValue","type":"uint128"},{"name":"dynamicGas","type":"uint128"}],"name":"value0","type":"tuple"}
+			]
 		}
 	],
 	"data": [

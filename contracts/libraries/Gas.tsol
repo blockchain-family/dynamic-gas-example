@@ -4,13 +4,13 @@ import "../structures/IGasValueStructure.tsol";
 
 library Gas {
 
-    uint128 constant TARGET_BALANCE = 0.3 ever;
+    uint128 constant TARGET_BALANCE = 1 ever;
 
     // Bar
     uint128 constant DEPLOY_COMPENSATION = 0.1 ever;
 
     uint128 constant DEPLOY_FOO_EXTRA_GAS = 100000;
-    uint128 constant DEPLOY_FOO_VALUE = 1 ever;
+    uint128 constant DEPLOY_FOO_VALUE = 0.2 ever;
 
     function getDeployFooGas() public returns(IGasValueStructure.GasValue) {
         return IGasValueStructure.GasValue(
@@ -20,8 +20,8 @@ library Gas {
     }
 
     // Foo
-
-    uint128 constant SET_ACTIVE_STATE_FOO = 0.5 ever;
+    uint128 constant FOO_TARGET_BALANCE = 0.2 ever;
+    uint128 constant SET_ACTIVE_STATE_FOO = 0.1 ever;
 
     function getSetActiveFoo() public returns(IGasValueStructure.GasValue) {
         return IGasValueStructure.GasValue(
